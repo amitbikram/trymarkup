@@ -2,3 +2,4 @@ mountpoints:
   /: 
     url: https://amitbikram.github.io/
     type: markup
+    suffix: ".html"
